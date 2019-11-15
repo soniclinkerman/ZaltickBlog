@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.nav {
+    background-color:  #F0F0F0;
+}
+
+.logo-layout {
+    padding: 30px;
+}
+
+.logo {
+    margin: 0;
+    margin-top: 20px;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: -5;
+}
+
+.app-name {
+    position: absolute;
+    left: 50px;
+    top: 2px;
+}
+
+
+/* End of Header */
+
+.main {
+    padding-top: 150px;
+}
+
+.zaltick {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+.app-name {
+    display:inline-block;
+    
+}
+
+.description {
+    border: 2px solid #F0F0F0;
+    width: 500px;
+    margin: auto;
+}
+
+
+.contact {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 70px;
+    background-color: rgb(77, 159, 231);
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 2px;
+    
+}
+.contact:hover {
+    background-color:white;
+    color:rgb(77, 159, 231);
+    outline: 1px solid #F0F0F0;
+}
+
+/* End of Main */
+
+.footer {
+    margin-top: 220px;
+    padding: 10px;
+    background-color: #F0F0F0;
+}
